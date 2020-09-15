@@ -1,5 +1,5 @@
 {
-  "name": "nama-gadung",
+  "name": "dummy-name",
   "version": "1.0.0",
   "description": "Pustaka kecil yang dapat membantu memberikan nama acak",
   "main": "src/index.js",
